@@ -6,6 +6,7 @@ export default class MyDocument extends Document {
       <Html>
         <Head>
           <meta charSet="utf-8" />
+          <link rel="shortcut icon" href="favicon.png" type="image/png" />
         </Head>
 
         <body>
