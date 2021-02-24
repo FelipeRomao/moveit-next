@@ -40,7 +40,8 @@ body,
 input,
 textarea,
 button {
-  font: 488 16px "Inter" sans-serif;
+  font: 488 16px "Arial" sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 button {
